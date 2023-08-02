@@ -1,3 +1,3 @@
 # cableprofile
 GUI tool to simplify cable coordinate calculations in prestressed concrete structures
-![Alt text](cableprofile_demo.gif)
+![](https://github.com/anuvc/cableprofile/blob/main/cableprofile_demo_30.gif)
