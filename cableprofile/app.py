@@ -9,6 +9,7 @@ from cableprofile import Cable2D
 
 app = Dash(__name__)
 app.title = "cableprofile"
+server = app.server
 
 introduction = [
     "cableprofile is a tool designed to simplify the process of determining 3D coordinates of cables in prestressed concrete structures. By providing a GUI interface, it automates tedious calculations, saving time and enhancing accuracy for civil engineers. \n Created by ", 
